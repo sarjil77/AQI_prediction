@@ -44,5 +44,5 @@ To use this project:
 
 
 **tip**
-Try to read this project from Linear and then AutoReg and atlast ARIMA beacuase i have tried to explain every terms from basic. So if you read project from in between and you may not get that particualr terms.
+Try to read this project from Linear and then AutoReg and atlast ARIMA beacuase i have tried to explain every terms from basic. So if you read project from in between and you may not get that particular terms.
 
